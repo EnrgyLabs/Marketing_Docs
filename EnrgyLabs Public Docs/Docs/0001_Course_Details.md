@@ -55,19 +55,19 @@ This masterclass closes that gap. You learn with industry-style workflows, build
 
 ## 3. What you will learn
 
-- [x] Create **schematics** and **footprint layouts** in KiCad
-- [x] Understand **symbols vs. footprints**, **SMT vs. through-hole** components
-- [x] Select components and **read datasheets** with confidence
-- [x] **Import** symbols and footprints from the web
-- [x] Build **custom symbols and footprints** from a datasheet
-- [x] Route a PCB using **tracks, vias, layers, ground and copper planes**
-- [x] Apply **design rules and manufacturing constraints** and pass **DRC**
-- [x] Generate **Gerber, drill and manufacturing outputs**
-- [x] Understand **fabrication, assembly and BOM** processes
-- [x] Go through a **live PCB procurement** process
-- [x] Use **Git for KiCad** and collaborate with other engineers
-- [x] Use **AI efficiently** to support your PCB design process
-- [x] **Solder, test and verify** your finished design
+- [ ] Create **schematics** and **footprint layouts** in KiCad
+- [ ] Understand **symbols vs. footprints**, **SMT vs. through-hole** components
+- [ ] Select components and **read datasheets** with confidence
+- [ ] **Import** symbols and footprints from the web
+- [ ] Build **custom symbols and footprints** from a datasheet
+- [ ] Route a PCB using **tracks, vias, layers, ground and copper planes**
+- [ ] Apply **design rules and manufacturing constraints** and pass **DRC**
+- [ ] Generate **Gerber, drill and manufacturing outputs**
+- [ ] Understand **fabrication, assembly and BOM** processes
+- [ ] Go through a **live PCB procurement** process
+- [ ] Use **Git for KiCad** and collaborate with other engineers
+- [ ] Use **AI efficiently** to support your PCB design process
+- [ ] **Solder, test and verify** your finished design
 
 ---
 
