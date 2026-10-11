@@ -1,0 +1,4 @@
+{
+  "folder": "Enrgylabs/Tasks",
+  "template": "Enrgylabs/templates/{{Date}}.md"
+}

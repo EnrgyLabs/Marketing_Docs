@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "f51abf44a21b9c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "999711b6b587f7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c1fc41f3335c2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4dcbda33fe6cef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36aba1aa337580b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f843937b9dc0e2df",
+    "type": "split",
+    "children": [
+      {
+        "id": "349f970336ecf69b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704f5fecaf85463b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "65121b3375544c00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3e13123c572e98c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2152998a6b017574",
+    "type": "split",
+    "children": [
+      {
+        "id": "17ba50cdd57c01b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d22726a908a0ebc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "aa040f1b587d10e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9cc40f4cd63d1cb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18cba823d2b2405b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca7e28fe9928cc18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5c1fc41f3335c2d9",
+  "lastOpenFiles": [
+    "Enrgylabs/PCB Design Masterclass Marketting.md",
+    "Enrgylabs/Brainstorming/Poster_Design_PCB_Masterclass.md",
+    "Excalidraw",
+    "Enrgylabs/Tasks/20261005_Daily_Task_Vetrivel.md",
+    "Enrgylabs/templates/{{Date}}.md",
+    "Enrgylabs/templates",
+    "Enrgylabs/Brainstorming/PCB-design-masterclass-course-structure.md",
+    "Enrgylabs/PCB Design Masterclass.md",
+    "Enrgylabs/Tasks/202610-Tasks-Overall.md",
+    "Enrgylabs/Tasks/20260930_Daily_Task_Vetrivel.md",
+    "Enrgylabs/Solar Project.md",
+    "Enrgylabs/EnrgyLabs.md",
+    "Enrgylabs/Brainstorming",
+    "Enrgylabs/Tasks",
+    "Enrgylabs",
+    "Personal/Attachments/Scanned Document 03.10.26 at 23.40.14.pdf",
+    "Personal/Attachments/Scanned Document 03.10.26 at 23.38.12.pdf",
+    "Personal/Attachments",
+    "Personal/House/House change - 02102026.md",
+    "Personal/House",
+    "Personal",
+    "Welcome.md"
+  ]
+}
