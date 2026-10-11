@@ -322,7 +322,7 @@ Yes. The workflow is industry-style, and your skills transfer to any ECAD tool.
 
 - 🌐 **Website:** [www.enrgylabs.com](https://www.enrgylabs.com)
 -  📸 Instagram : https://shorturl.at/5yF6y
--  💼 LinkedIn : 
+-  💼 LinkedIn Page : https://shorturl.at/4dw6A
 - 📘 Whatsapp Group: 
 -  💬 Discord : 
 
